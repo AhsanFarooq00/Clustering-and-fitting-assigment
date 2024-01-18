@@ -120,7 +120,6 @@ def curve_fitting(data):
     plt.show()
 
 # Load data from CSV file
-# Load data from CSV file
 file_path = "C:\\Users\\Ahsan\\Downloads\\chinadata.csv"
 
  
